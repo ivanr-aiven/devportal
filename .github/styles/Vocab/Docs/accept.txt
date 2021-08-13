@@ -52,3 +52,11 @@ unencrypted
 Untrusted
 [Uu]naggregated
 wget
+failover
+hyperloglogs
+geospatial
+Lua
+refcard
+Memorystore
+Redis
+[Dd]ashboards
