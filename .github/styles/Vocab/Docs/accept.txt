@@ -38,7 +38,7 @@ PostgreSQL
 Postman
 psql
 Python
-Redis
+[Rr]edis
 refcard
 Sakila
 scriptable
@@ -54,4 +54,3 @@ unencrypted
 Untrusted
 [Uu]naggregated
 wget
-
